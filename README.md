@@ -5,7 +5,7 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="<img width="1920" height="931" alt="image" src="https://github.com/user-attachments/assets/9defe1b0-774a-4d63-952b-148a8305af11" />
+  <img src="< https://1drv.ms/i/c/56C7057ACB6914A5/IQC50lLKwfI6QZr4mC6Wdxf1AQBxLQvzwYci-thcPUeMCUg?e=84IcEC****/>
 />
   &nbsp;
   <img src="assets/dashboard.png" alt="JEEMFIT Dashboard" width="48%" />
