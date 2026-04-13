@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img width="1440" height="4520" alt="image" src="https://github.com/user-attachments/assets/9f453743-f26a-4bf7-a064-1db7694dae47" />
 
 # ⚡ JEEMFIT 
 ### *Precision Fitness Management & Performance Tracking*
