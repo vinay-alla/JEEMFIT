@@ -2,6 +2,14 @@
 
 <div align="center">
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="assets/login.png" alt="JEEMFIT Login" width="48%" />
+  &nbsp;
+  <img src="assets/dashboard.png" alt="JEEMFIT Dashboard" width="48%" />
+</div>
+
 
 # ⚡ JEEMFIT 
 ### *Precision Fitness Management & Performance Tracking*
