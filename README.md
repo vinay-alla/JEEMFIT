@@ -4,12 +4,6 @@
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="< https://1drv.ms/i/c/56C7057ACB6914A5/IQC50lLKwfI6QZr4mC6Wdxf1AQBxLQvzwYci-thcPUeMCUg?e=84IcEC****/>
-/>
-  &nbsp;
-  <img src="assets/dashboard.png" alt="JEEMFIT Dashboard" width="48%" />
-</div>
 
 
 # ⚡ JEEMFIT 
