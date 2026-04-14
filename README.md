@@ -38,7 +38,8 @@
 ### 🔐 Authentication — Secure Entry Point
 
 <div align="center">
-  <img src="assets/login.png" alt="JEEMFIT Login Page" width="90%" style="border-radius:12px"/>
+  <img width="1920" height="931" alt="Image" src="https://github.com/user-attachments/assets/6000cf36-f1f5-42fa-ab6f-8f3dcb4f1f77" />
+
   <br/><br/>
   <p><b>Minimalist login interface</b> with Google OAuth 2.0 integration, JWT sessions, and role-based access control.<br/>
   Split-layout design: cinematic gym atmosphere left, clean sign-in form right.</p>
@@ -49,7 +50,7 @@
 ### 📊 Performance Dashboard — Command Center
 
 <div align="center">
-  <img src="assets/dashboard.png" alt="JEEMFIT Dashboard" width="90%" style="border-radius:12px"/>
+  <img width="1920" height="857" alt="Image" src="https://github.com/user-attachments/assets/7683b7a0-987e-46cd-b51a-ec256f10a87f" />
   <br/><br/>
   <p><b>Real-time tracking</b> of calories burned, hydration, sleep cycles, and live workout checklists.<br/>
   Daily Progress rings for Calories · Protein · Water — all in one unified view.</p>
