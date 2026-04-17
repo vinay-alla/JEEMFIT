@@ -1,5 +1,5 @@
 # JEEMFIT
-stay fit and fine
+stay fit and fine.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:16a34a&height=200&section=header&text=JEEMFIT&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Precision%20Fitness%20Management%20%26%20Performance%20Tracking&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
